@@ -13,7 +13,7 @@ dcgan.ipynb (Run this code using Anaconda Spyder.)
 data_loader.ipynb
 
 #TRAINED MODEL
-model.pth  (As the file is too big to submit, please visit https://github.com/feiqiwangbot/JewelGAN to download.)
+model.pth  (As the file is too big to submit, please visit https://drive.google.com/drive/folders/1VKY9-djPMgN7ka8oYShuoCNL7IAzgxAJ?usp=sharing to download.)
 
 #RESULT
 Some training results can be found at https://drive.google.com/drive/folders/1cUv9OREtG6DkezuhMdgXsr4BNA0bk5-1?usp=sharing
