@@ -1,5 +1,5 @@
 README 
-Created by feiqi.wang (more works by feiqiwang please visit feiqiwang.net)
+Created by feiqi.wang (more works by feiqiwang please visit https://feiqiwang.net/)
 
 #INTRODUCTION
 JewelGAN applies Generative Adversarial Networks and Neural Style Transfer to generating relic ring images. A self-construct dataset of rings is used for training. You can find the entire datasets, code and model at https://github.com/feiqiwangbot/JewelGAN .
